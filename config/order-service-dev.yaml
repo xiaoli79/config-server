@@ -1,0 +1,5 @@
+data:
+  env: order-service-dev
+  user:
+    username: order-service-dev
+    password: order-service-dev
