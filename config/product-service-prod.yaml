@@ -1,2 +1,3 @@
 data:
   env: product-service-prod666nima
+  password: '{cipher}3482be98568ffc262c187a3deb053ca12f6850dbafa7a9ef10800c256bc248f2'
